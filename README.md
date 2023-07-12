@@ -11,11 +11,18 @@ Por otro lado, contiene un documento de SQL con querys que se proponen a partir 
 
 ## Estructura de las carpetas 
 
-En este repositorio se encuentran dos carpetas, una llamada Python y otra SQL, ademas de este READMES.
+En este repositorio se encuentran dos carpetas, una llamada Python y otra SQL, ademas de este README.
 
 Dentro de la carpeta de SQL se encuentra el archivo correspondiente a este lenguaje.
 
-Por otro lado, en la carpeta de Python encontramos un jupyter donde está la clase y también otra carpeta llamada data, en la cual se encuentran los dos archivos con los que se han hecho las pruebas para comprobar si la clase funciona.
+Por otro lado, en la carpeta de Python encontramos tres jupyter y también otra carpeta llamada data, en la cual se encuentran los dos archivos con los que se han hecho las pruebas para comprobar si la clase funciona.
+* Jupyters:
+    *  Ejercicio_solo_txt: clase que solo funciona para archivos .txt ya que el último método no incluye todo el contenido del texto.
+    *  Evaluación-sprint2-MonicaSerrano-Python: clase donde el último método obtiene todo el contenido del archivo.
+    *  Ejercicio_todos_los_métodos: clase que incluye todos los diferentes métodos.
+
+Todos estos Jupyters tienen pruebas con diferentes condiciones de todos los métodos.
+
 
 ## Lenguajes utilizados
 * Python
